@@ -1,0 +1,87 @@
+{
+  "originUrl": "https://www.itu.int",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/about/pages/default-aspx",
+      "id": "c9386a2d28a95b4028841581732a3a5630eeffdd"
+    },
+    {
+      "url": "https://www.itu.int/en/action/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/action/pages/default-aspx",
+      "id": "29946ba63095f9fc06eb767ea88126e89fd8ca5e"
+    },
+    {
+      "url": "https://www.itu.int/en/events/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/events/pages/default-aspx",
+      "id": "8b3763d852fc99ede176c7ac6ab98993c0426515"
+    },
+    {
+      "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/general-secretariat/pages/default-aspx",
+      "id": "b38259ba7d977dcbaca818239c9903330b19b280"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/itu-d/environment/pages/publications/gdc-25-aspx",
+      "id": "8cbe269945f0aef57f3d336065e33599856ae09a"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/itu-d/pages/default-aspx",
+      "id": "06bba7867017bb3ce058f44539fe1e895cfc198f"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/itu-d/pages/regional-presence-aspx",
+      "id": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/itu-r/pages/default-aspx",
+      "id": "cc1459dc529869d049641c8b8a9b8f80326f92b1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/itu-t/pages/default-aspx",
+      "id": "1843884117a9a6eb371d48fa499c42fd460cfb0f"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/mediacentre/pages/default-aspx",
+      "id": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/default.aspx",
+      "source": "MANUAL",
+      "targetPath": "/en/pages/default-aspx",
+      "id": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
