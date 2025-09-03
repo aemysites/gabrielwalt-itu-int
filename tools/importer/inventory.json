@@ -1,0 +1,1355 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-00-7fd47a39a92fa3c63ddeb4cb7af75b813486572e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-00-7fd47a39a92fa3c63ddeb4cb7af75b813486572e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 135,
+        "background": "rgb(255, 255, 255) url(\"https://www.itu.int/PublishingImages/masterpage/background/body-top-bg-219x10.png\") repeat-x scroll 0px 0px / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-13-441f0059c406bef2e1148674c1a1b4ca626de863",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-10-2a2c057f4df2de0b2f6917e88bf2f3a49ed23212",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-06-33b09156ecf646366fcd9a576ae837197c98c1f5",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-14-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-11-8229443442109eabba5cf0b91f73e8d787b4bcdc",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-11-bc7475f8b417cb9ac14457af1b6f3ee91a03a3d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-11-fd540e21a067c1cda707a9439ab04b0d1c6faac8",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) url(\"https://www.itu.int/PublishingImages/masterpage/background/body-top-bg-219x10.png\") repeat-x scroll 0px 0px / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Tabs",
+      "cluster": 1,
+      "source": "Tabs",
+      "target": "Tabs (tabs1)",
+      "key": "tabs1",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-07-a2c1279821943ac8b7e63489dadf041f052f32af",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-09-c34fe4d88e624268766b1ac9910358fd64b0d44d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-12-596c23628671cbdc0dc0aca75413146290ac8fb4",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[5]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-05-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-05-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-05-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-05-343386d0655b09fd17f2bce4c4be8181d9b31dc4",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-05-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-13-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-10-f2ddf57ae2b2d0a80f7d52b599f482a525d06050",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-10-0a6d2e1c6ac178740833c945be7b267b0d13adfb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[8]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-10-d34aba3361f30cfc7bd33f7fdd107187e1eab383",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-07-78e02e70c8e465bd5ba70ad43bc8490168b71ae1",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 4,
+      "source": "Tabs",
+      "target": "Tabs (tabs4)",
+      "key": "tabs4",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-01-634f6f320e900b856cdc487a6a7ca7199c34496d",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-01-cc469b36b3bb1c7bbd94bda09dbdbbdd176711fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-01-634f6f320e900b856cdc487a6a7ca7199c34496d",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-04-4e840e61a87abd40ce91ae134d7230eeeca3295c",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-05-49e7280e2eeeed93f7a1b6fabf5960ec074dd2ae",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-06-a935e3c39090b33d649427768cdc0e9e1c3be125",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 7,
+      "source": "Carousel",
+      "target": "Carousel (carousel7)",
+      "key": "carousel7",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-04-6239054262dc0fbc120d3f8b494fce31cb408a0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-04-6d289ead9a20b0aa34bfe2cbf437f25c6f5785e7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-07-3156d3ef0d303a7a5640e59b8cab8babf2990032",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages10)",
+      "key": "cardsNoImages10",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-06-4ff73980e248ad8449cff5b8e703a5ac015687b1",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 11,
+      "source": "Header",
+      "target": "Header (header11)",
+      "key": "header11",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-00-7fd47a39a92fa3c63ddeb4cb7af75b813486572e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-13-441f0059c406bef2e1148674c1a1b4ca626de863",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-10-2a2c057f4df2de0b2f6917e88bf2f3a49ed23212",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-06-33b09156ecf646366fcd9a576ae837197c98c1f5",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-06-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-14-ebc895d097d8111febaff4438b81635dde252236",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-11-8229443442109eabba5cf0b91f73e8d787b4bcdc",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-11-bc7475f8b417cb9ac14457af1b6f3ee91a03a3d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[9]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-11-fd540e21a067c1cda707a9439ab04b0d1c6faac8",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-08-3544a657441b72bb87481e6643923af76596cc52",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-07-97445eb8707b9b3dc7d9c090672188e932ea857d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-07-ff86d95e30f9f16b7eac0b6aeb3d5b911ba7d53c",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-08-343386d0655b09fd17f2bce4c4be8181d9b31dc4",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-09-3ccffdc801faa2c7ec51f924d6b537fece9dfe03",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 16,
+      "source": "Columns",
+      "target": "Columns (columns16)",
+      "key": "columns16",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-05-a6800578ad68758da81d9ed6926d68d40b4ae1a1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/table[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 17,
+      "source": "Hero",
+      "target": "Hero (hero17)",
+      "key": "hero17",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-02-b9cafd096c5391e9d8680f2f58a159752b5d06a9",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+          "uuid": "b38259ba-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+          "uuid": "f76237f5-02-b9cafd096c5391e9d8680f2f58a159752b5d06a9",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-12-00b786078afdd0d013e32e68139267ef1628e668",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[9]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-06-7beea498c2bbb729dbeb591ac159ce802ba4a9e0",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-07-a08801184f30c868631602a824b73075c0f10d6b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-04-6239054262dc0fbc120d3f8b494fce31cb408a0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+          "uuid": "8b3763d8-04-6d289ead9a20b0aa34bfe2cbf437f25c6f5785e7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 24,
+      "source": "Accordion",
+      "target": "Accordion (accordion24)",
+      "key": "accordion24",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-08-24ac62008b567d890101cc1933843296c1c9c1d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns",
+      "target": "Columns (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-05-6d289ead9a20b0aa34bfe2cbf437f25c6f5785e7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "source": "Hero",
+      "target": "Hero (hero26)",
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-03-abbca87ee8a663a10f86ef1fcbd627c9815fb2fc",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 27,
+      "source": "Cards",
+      "target": "Cards (cards27)",
+      "key": "cards27",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-09-ddb0627f9e913fe26506c945ff81e82021b7114d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cards28)",
+      "key": "cards28",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+          "uuid": "29946ba6-04-6d289ead9a20b0aa34bfe2cbf437f25c6f5785e7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 29,
+      "source": "Cards",
+      "target": "Cards (cards29)",
+      "key": "cards29",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-04-6d289ead9a20b0aa34bfe2cbf437f25c6f5785e7",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-02-136183b293a7e410b9b4d6fca4df6b2a6920318b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 31,
+      "source": "Tabs",
+      "target": "Tabs (tabs31)",
+      "key": "tabs31",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-08-91d5ffb87168f82e91bc8c7c4af1bf80a504493b",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 32,
+      "source": "Header",
+      "target": "Header (header32)",
+      "key": "header32",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-00-7fd47a39a92fa3c63ddeb4cb7af75b813486572e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 33,
+      "source": "Header",
+      "target": "Header (header33)",
+      "key": "header33",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+          "uuid": "18438841-00-645af49ba7ff4ad81b5857cef6ce6338d4365274",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns",
+      "target": "Columns (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-05-441f0059c406bef2e1148674c1a1b4ca626de863",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+          "uuid": "c9386a2d-08-6ed521c387bb53c92c02be39d35867284051676f",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+          "uuid": "8cbe2699-04-2ff3e6272bb7c8ed2359d991e157f1b7227c579d",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 37,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+          "uuid": "06bba786-10-2cd8ac5ff6321f5a4470f6199376c123a1f0953d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[4]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 38,
+      "source": "Tabs",
+      "target": "Tabs (tabs38)",
+      "key": "tabs38",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-01-fb800061a6868607901a7d86210caf52d46011ee",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 39,
+      "source": "Tabs",
+      "target": "Tabs (tabs39)",
+      "key": "tabs39",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+          "uuid": "cc1459dc-06-f31aacffbd5ef0d81ef23c5a57ca99d87a170fdc",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 40,
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+          "uuid": "f74cb802-09-070ecc3fa71e0b5de2d7859bebc0d2eeaa3dc8ae",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 41,
+      "source": "Carousel",
+      "target": "Carousel (carousel41)",
+      "key": "carousel41",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-02-62cba1f5843cb0f816c76d73dd17140db87d0070",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 42,
+      "source": "Cards",
+      "target": "Cards (cards42)",
+      "key": "cards42",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-06-363ea8181d390fa81f5637252c05fc0b5fac8ae1",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 43,
+      "source": "Columns",
+      "target": "Columns (columns43)",
+      "key": "columns43",
+      "instances": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+          "uuid": "4ae55fbc-09-0d8c3209be5b9bfc6399530d3c9ffa580bc30d94",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[9]",
+          "section": "section-4"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+      "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+      "uuid": "06bba786-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+      "urlHash": "06bba7867017bb3ce058f44539fe1e895cfc198f",
+      "uuid": "06bba786-11-78e02e70c8e465bd5ba70ad43bc8490168b71ae1",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+      "urlHash": "1843884117a9a6eb371d48fa499c42fd460cfb0f",
+      "uuid": "18438841-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/action/Pages/default.aspx",
+      "urlHash": "29946ba63095f9fc06eb767ea88126e89fd8ca5e",
+      "uuid": "29946ba6-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/default.aspx",
+      "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+      "uuid": "4ae55fbc-03-1d2cdb0acfd70244ef2213f68d28a50656870f32",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/default.aspx",
+      "urlHash": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f",
+      "uuid": "4ae55fbc-05-dfd16381e5f26e821cdbd1cb36172cacc6ac235f",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://www.itu.int/en/events/Pages/default.aspx",
+      "urlHash": "8b3763d852fc99ede176c7ac6ab98993c0426515",
+      "uuid": "8b3763d8-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+      "urlHash": "8cbe269945f0aef57f3d336065e33599856ae09a",
+      "uuid": "8cbe2699-03-6c2490dd047f8d074da27923d570705038e2f28e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+      "urlHash": "b38259ba7d977dcbaca818239c9903330b19b280",
+      "uuid": "b38259ba-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+      "uuid": "c9386a2d-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+      "uuid": "c9386a2d-04-62cba1f5843cb0f816c76d73dd17140db87d0070",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+      "uuid": "c9386a2d-09-4f59de249f2e6db19916006a47ca8045b09aa8d6",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+      "uuid": "c9386a2d-10-bc2047b8fa897c22b10c69dc2e634fbaf68894b5",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "urlHash": "c9386a2d28a95b4028841581732a3a5630eeffdd",
+      "uuid": "c9386a2d-11-e266d2afc3cbb87fe2b3559482a0750d781c95c6",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+      "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+      "uuid": "cc1459dc-02-3ef4b95009eefe13bc347e35a5111bfc1a8244d0",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+      "urlHash": "cc1459dc529869d049641c8b8a9b8f80326f92b1",
+      "uuid": "cc1459dc-04-71b0d98318940c68b2c4eb298ac3671aba7984b0",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+      "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+      "uuid": "f74cb802-03-ce0eeaf7ce4927819a2da8598a657c88a00db3d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+      "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+      "uuid": "f74cb802-05-a66ae03cefeec522f181f91ad56ad4fc64fe7555",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+      "urlHash": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f",
+      "uuid": "f74cb802-08-596c23628671cbdc0dc0aca75413146290ac8fb4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+      "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+      "uuid": "f76237f5-03-6c2490dd047f8d074da27923d570705038e2f28e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+      "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+      "uuid": "f76237f5-04-8ef6da2cefc5b6f3db5fc6092663ffa0aa3aa163",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+      "urlHash": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae",
+      "uuid": "f76237f5-06-e1a3bb27759fddb78b4d3a9eef14759a8b37a337",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) url(\"https://www.itu.int/PublishingImages/masterpage/background/body-top-bg-219x10.png\") repeat-x scroll 0px 0px / auto padding-box border-box",
+      "count": 77
+    },
+    {
+      "name": "section-2",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.itu.int/PublishingImages/masterpage/background/body-map-bg.gif\") no-repeat scroll 50% 0px / auto padding-box border-box",
+      "count": 11
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.itu.int/PublishingImages/masterpage/background/module-greybg-sidebar.gif\") repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-4",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.itu.int/PublishingImages/masterpage/background/background-sprite.png\") no-repeat scroll 10px -580px / auto padding-box border-box",
+      "count": 11
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(5, 45, 83) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.itu.int/PublishingImages/masterpage/background/background-sprite.png\") no-repeat scroll 0px -960px / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-7",
+      "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-8",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
