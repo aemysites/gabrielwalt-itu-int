@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Product Catalog Template'",
+      "name": "Directory Listing",
       "cluster": 1,
       "pages": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "'Directory Listing Page'",
+      "name": "\"Directory Listing\"",
       "cluster": 3,
       "pages": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "'Directory Listing'",
+      "name": "\"Directory Listing\"",
       "cluster": 5,
       "pages": [
         {
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "'Product Listing Page'",
+      "name": "'Blog Listing Page'",
       "cluster": 6,
       "pages": [
         {
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "'News Portal'",
       "cluster": 7,
       "pages": [
         {
