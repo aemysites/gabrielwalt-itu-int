@@ -1,0 +1,90 @@
+{
+  "templates": [
+    {
+      "name": "'Product Catalog Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+          "uuid": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f"
+        },
+        {
+          "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+          "uuid": "b38259ba7d977dcbaca818239c9903330b19b280"
+        },
+        {
+          "url": "https://www.itu.int/en/action/Pages/default.aspx",
+          "uuid": "29946ba63095f9fc06eb767ea88126e89fd8ca5e"
+        },
+        {
+          "url": "https://www.itu.int/en/about/Pages/default.aspx",
+          "uuid": "c9386a2d28a95b4028841581732a3a5630eeffdd"
+        }
+      ]
+    },
+    {
+      "name": "Product Listing Page",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+          "uuid": "cc1459dc529869d049641c8b8a9b8f80326f92b1"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+          "uuid": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae"
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+          "uuid": "06bba7867017bb3ce058f44539fe1e895cfc198f"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Post Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+          "uuid": "8cbe269945f0aef57f3d336065e33599856ae09a"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/events/Pages/default.aspx",
+          "uuid": "8b3763d852fc99ede176c7ac6ab98993c0426515"
+        }
+      ]
+    },
+    {
+      "name": "'Product Listing Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+          "uuid": "1843884117a9a6eb371d48fa499c42fd460cfb0f"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.itu.int/en/Pages/default.aspx",
+          "uuid": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f"
+        }
+      ]
+    }
+  ]
+}
